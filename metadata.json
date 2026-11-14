@@ -1,0 +1,8 @@
+{
+  "name": "THE FUTURE KITCHEN",
+  "description": "Fresh food, amazing flavour, unforgettable moments. Complete Nigerian restaurant web application with interactive menu, online food ordering, photo gallery, customer reviews, contact, and secure admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
